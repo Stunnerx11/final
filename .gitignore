@@ -1,0 +1,6 @@
+WorkingFiles*
+workspace.code*
+dist*
+.cache*
+node_modules*
+git config --global core.autocrlf true
